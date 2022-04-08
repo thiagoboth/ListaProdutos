@@ -10,5 +10,8 @@ $ cd ListaProdutos
 # Instale as dependências
 $ npm install
 
+# Instalar styled-components que por algum motivo não está instalando
+$ npm install styled-components
+
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
